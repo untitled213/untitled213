@@ -9,7 +9,7 @@ PeRF is tested on Ubuntu 20.04 (5.4.0-100-generic) and Mellanox Driver (MLNX_OFE
 
 ## How to Build PeRF
 ```
-git clone https://github.com/untitled213/untitled.git
+git clone https://github.com/untitled213/untitled213.git
 cd untitled
 ./build_perf.sh
 ```
